@@ -3,6 +3,10 @@ Shaft for Sanjuks V3-R Lever https://www.us.istmall.co.kr/Mobile/Product/Detail/
 
 Includes thru hole at lower part of the shaft to tighten or remove toppers. The location is useful for those using bat tops with large recesses that cause the bat top to cover the wrench slot on the stock shaft.
 
+STEP and PDF files are required for CNC fabrication using JLCCNC.
+
+Material is Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance. Stainless Steel or Aluminum 7075 can be used as well, but will be more expensive.
+
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
