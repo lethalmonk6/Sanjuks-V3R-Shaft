@@ -5,7 +5,7 @@ Includes thru hole at lower part of the shaft to tighten or remove toppers. The 
 
 STEP and PDF files are required for CNC fabrication using JLCCNC.
 
-Material is Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance. Stainless Steel or Aluminum 7075 can be used as well, but will be more expensive.
+Test copy was made with Aluminum 6061-T6, no surface finish, ISO 2768 medium tolerance. However, Stainless Steel is recommended.
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
